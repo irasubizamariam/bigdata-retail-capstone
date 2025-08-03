@@ -80,6 +80,11 @@ bigdata-retail-capstone/
 
 ![Top Products](./screenshots/top_products.png)
 
+### 📊 Power BI Dashboard
+
+Download the dashboard here:  
+[RetailSalesDashboard.pbix](./RetailSalesDashboard.pbix)
+
 ---
 
 ### 📈 Daily Sales Trends
