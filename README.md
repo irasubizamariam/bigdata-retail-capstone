@@ -70,3 +70,18 @@ bigdata-retail-capstone/
 ├── presentation/
 │   └── Online_Shopping_Capstone_Presentation.pptx
 └── README.md
+### 🔍 EDA Overview
+
+![EDA Output](./screenshots/eda_output.png)
+
+---
+
+### 🛍️ Top-Selling Products
+
+![Top Products](./screenshots/top_products.png)
+
+---
+
+### 📈 Daily Sales Trends
+
+![Daily Trends](./screenshots/daily_sales.png)
